@@ -1,4 +1,4 @@
-package com.velocity.Entity;
+package com.Entity;
 
 public class Product {
 

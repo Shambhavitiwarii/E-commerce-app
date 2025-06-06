@@ -1,9 +1,9 @@
-package com.velocity.Main;
+package com.Main;
 
 import java.util.List;
 
-import com.velocity.Entity.Product;
-import com.velocity.Services.ProductService;
+import com.Entity.Product;
+import com.Services.ProductService;
 
 public class Ecommerce {
 	public static void main(String[] args) {

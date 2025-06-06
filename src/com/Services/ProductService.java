@@ -1,4 +1,4 @@
-package com.velocity.Services;
+package com.Services;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.velocity.Entity.Product;
-import com.velocity.Repository.DatabaseConnection;
+import com.Entity.Product;
+import com.Repository.DatabaseConnection;
 
 public class ProductService {
 	public List<Product> getAllProducts() {
